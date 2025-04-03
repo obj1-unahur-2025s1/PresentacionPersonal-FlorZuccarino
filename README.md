@@ -12,4 +12,5 @@ Tengo varios pasatiempos y uno de los que mas disfruto es jugar videojuegos, mi 
 - Es la primera vez que uso github, asi que todo esto es nuevo para mí pero planeo dar el 100% para mantenerme al día.
 - Tengo un perro llamado Roby, es medio gruñón pero es muy lindo y educado, adjunto una prueba de su belleza:
 
-![Roby](https://github.com/user-attachments/assets/6097bce0-2920-4cdf-945e-c6ea73d016dc)
+![Roby](./Roby.jpg)
+
